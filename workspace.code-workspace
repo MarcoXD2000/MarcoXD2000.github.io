@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\minimal-master\\javascripts"
+		},
+		{
+			"path": "..\\..\\minimal-master\\stylesheets"
+		}
+	],
+	"settings": {}
+}
