@@ -176,6 +176,12 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  padding-left: 50px;
+}
+
+block{
+  float:left;
+  padding-bottom:50px;
 }
 
 small {
